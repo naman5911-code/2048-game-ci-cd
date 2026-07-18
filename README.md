@@ -9,11 +9,21 @@ A fully automated CI/CD pipeline that deploys a Dockerized 2048 game to AWS ECS 
 ## 🏗️ System Architecture
 ![Architecture Diagram](./images/architecture-diagram.png)
 
-## 📸 Screenshots
+## 📸 Project Screenshots
+
+### 1. Local Docker Desktop Validation
 ![Local Validation](./images/local-docker.png)
+
+### 2. Amazon ECR Artifact Repository
 ![ECR Repository](./images/ecr-repo.png)
+
+### 3. AWS CodeBuild Success Logs
 ![CodeBuild Success](./images/codebuild.png)
+
+### 4. AWS CodePipeline Conveyor Belt Complete
 ![CodePipeline Complete](./images/codepipeline.png)
+
+### 5. Production Live Website (Hosted on ECS Fargate)
 ![Live Website](./images/live-website.png)
 
 ## ✨ Features
@@ -41,4 +51,4 @@ If you have Docker Desktop installed, you can spin up this game locally on your 
 ## 👨‍💻 Author
 **Namandeep Singh** - Computer Science Graduate
 
-[Portfolio](https://yourportfolio.com](https://naman5911-code.github.io/.github.io/) | [LinkedIn](www.linkedin.com/in/namandeep-singh-31b2412a1)
+[Portfolio](https://naman5911-code.github.io/.github.io/) | [LinkedIn](www.linkedin.com/in/namandeep-singh-31b2412a1)
