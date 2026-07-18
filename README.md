@@ -41,4 +41,4 @@ If you have Docker Desktop installed, you can spin up this game locally on your 
 ## 👨‍💻 Author
 **Namandeep Singh** - Computer Science Graduate
 
-[Portfolio]([https://yourportfolio.com](https://naman5911-code.github.io/.github.io/)) | [LinkedIn](www.linkedin.com/in/namandeep-singh-31b2412a1)
+[Portfolio](https://yourportfolio.com](https://naman5911-code.github.io/.github.io/) | [LinkedIn](www.linkedin.com/in/namandeep-singh-31b2412a1)
